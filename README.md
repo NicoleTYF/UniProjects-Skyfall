@@ -5,7 +5,7 @@
 &emsp;&emsp;&emsp;Java ● IntelliJ ● Git Bash ● GitLab(repo,wiki,issue board,tickets) ● Jenkins ● SonarQube ● JaCoCo
 <br>
 
-> &emsp; **NOTE:** <samp>To protect the privacy of other's code, I'll only display the code I have done in the game.</small> <br>
+> &emsp; **NOTE:** <samp>To protect the privacy of other's code, I'll display my work instead of the entire code base.</small> <br>
 
 
 <br>
