@@ -2,7 +2,7 @@
 &emsp; 📐 **Scope:**   <br> 
 &emsp;&emsp;&emsp;Build a survival game like Minecraft and Don't Starve. <br>
 &emsp; 🧰 **Tool Stack:**   <br>
-&emsp;&emsp;&emsp;Java ● IntelliJ ● Git Bash ● GitLab(repo,wiki,issue board,tickets) ● Jenkins ● SonarQube ● JaCoCo
+&emsp;&emsp;&emsp;Java ● IntelliJ ● Git Bash ● GitLab(repo,wiki,issue board,tickets) ● Jenkins ● SonarQube ● JaCoCo ● 
 <br>
 
 > &emsp; **NOTE:** <samp>To protect the privacy of other's code, I'll display my work instead of the entire code base.</small> <br>
@@ -11,7 +11,7 @@
 <br>
 
 **What I have done:**  <br>
-&emsp; 📃 [Document development process](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/IndividualPortfolio.pdf) including what I have learnt in this course<br>
+&emsp; 📃 [Document development process and course reflection](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/IndividualPortfolio.pdf)<br>
 &emsp; 🖼 Storybaording for game combat system (all [process_flow](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/diagrams) files in diagrams folder) <br>
 &emsp;&emsp;&emsp;<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow.png" height="100"/> &emsp;
 <img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow2.png" height="100"/> 
@@ -19,15 +19,15 @@
 <img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow4.png" height="100"/> <br> 
 &emsp; 🖼 Model [Class diagram](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png) for game combat system <br>
 &emsp;&emsp;&emsp;<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png" height="100"/> <br>
-&emsp; 👩🏻‍🤝‍🧑🏻 Collaborating with Scrum teams on GitLab to resolve issues and manage tickets (details in Individual Portfolio) <br>
 &emsp; 👩‍💻 Integrate player and enemy [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Character%20Animations)<br>
 &emsp; 👩‍💻 Code [Enemy class and its subclasses ](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Enemy)<br>
 &emsp; 👩‍💻 Code combat [interface class](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Player/ICombatEntity.java)<br>
 &emsp; 👩‍💻 Code combat interactions for [player](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Player) and [enemies](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Enemy/Enemy.java) (hurt, attack & die)<br>
 &emsp; 👩‍💻 JUnit testing for methods written ([player](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Player/MainCharacterTest.java), [enemy](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Enemy/EnemyTest.java))<br>
 &emsp; 👩‍💻 Learn how to use Git, Jenkins and JaCoCo to integration<br>
-&emsp; 👩‍💻 Fix bugs and clean code smells of the code base with SonarQube (details in Individual Portfolio)<br>
-&emsp; 🧪 User testing (details in Individual Portfolio) <br>
+&emsp; 👩‍💻 Fix bugs and clean code smells of the code base with SonarQube <br>
+&emsp; 🧪 User testing <br>
+&emsp; 👩🏻‍🤝‍🧑🏻 Collaborating with Scrum teams on GitLab to resolve issues and manage tickets (details in Individual Portfolio) <br>
 <br>
 
 **Feedback**
