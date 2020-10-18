@@ -10,7 +10,7 @@ NOTE: To protect the privacy of other's code, I'll only display the code I have 
 
 &emsp; **What I have done:** <br>
 &emsp; 🖼 Storybaording for game combat system (see all [process_flow](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/diagrams) images in diagrams) <br>
-&emsp; 🖼 Making [Class diagram](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png) for game combat system <br>
+&emsp; 🖼 Model [Class diagram](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png) for game combat system <br>
 &emsp; 🧪 User testing (details see the pdf above) <br>
 &emsp; 👩🏻‍🤝‍🧑🏻 Collaborating with Scrum teams on GitLab to resolve issues and manage tickets (details in Individual Portfolio) <br>
 &emsp; 👩‍💻 Code player and enemy [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Character%20Animations)<br>
