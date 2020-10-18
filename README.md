@@ -10,15 +10,19 @@ NOTE: To protect the privacy of other's code, I'll only display the code I have 
 
 &emsp; **What I have done:** <br>
 &emsp; 🖼 Storybaording for game combat system (see all [process_flow](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/diagrams) images in diagrams) <br>
+&emsp;&emsp;&emsp;<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow.png" height="100"/> &emsp;
+<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow2.png" height="100"/> 
+<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow3.png" height="100"/> 
+<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow4.png" height="100"/> <br> 
 &emsp; 🖼 Model [Class diagram](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png) for game combat system <br>
-&emsp; 🧪 User testing (details see the pdf above) <br>
 &emsp; 👩🏻‍🤝‍🧑🏻 Collaborating with Scrum teams on GitLab to resolve issues and manage tickets (details in Individual Portfolio) <br>
 &emsp; 👩‍💻 Code player and enemy [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Character%20Animations)<br>
 &emsp; 👩‍💻 Code Enemy class and its subclasses [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Enemy)<br>
 &emsp; 👩‍💻 Code combat interactions for [player](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Player) and [enemies](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Enemy/Enemy.java) (hurt, attack & die)<br>
 &emsp; 👩‍💻 JUnit testing for methods written ([player](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Player/MainCharacterTest.java), [enemy](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Enemy/EnemyTest.java))<br>
-&emsp; 👩‍💻 Fix bugs and clean code smells of the code base with SonarQube (details in Individual Portfolio)<br>
 &emsp; 👩‍💻 Learn how to use Git, Jenkins and JaCoCo to integration<br>
+&emsp; 👩‍💻 Fix bugs and clean code smells of the code base with SonarQube (details in Individual Portfolio)<br>
+&emsp; 🧪 User testing (details in Individual Portfolio) <br>
 &emsp; 📃 Document development process including what I have learnt in this course (in both GitLab wiki and Individual Portfolio)<br>
 
 **Feedback**
