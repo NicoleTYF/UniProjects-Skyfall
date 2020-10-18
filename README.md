@@ -5,9 +5,10 @@
 &emsp;&emsp;&emsp;Java ● IntelliJ ● Git Bash ● GitLab(repo,wiki,issue board,tickets) ● Jenkins ● SonarQube ● JaCoCo
 <br>
 
-&emsp;&emsp;&emsp;&emsp;
 > **NOTE:** To protect the privacy of other's code, I'll only display the code I have done in the game. <br>
-&emsp;[Individual Portfolio](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/IndividualPortfolio.pdf)
+&emsp;[Individual Portfolio](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/IndividualPortfolio.pdf) 
+
+<br>
 
 &emsp; **What I have done:** <br>
 &emsp; 🖼 Storybaording for game combat system (all [process_flow](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/diagrams) files in diagrams folder) <br>
