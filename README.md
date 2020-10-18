@@ -2,7 +2,7 @@
 &emsp; 📐 **Scope:**   <br> 
 &emsp;&emsp;&emsp;Build a survival game like Minecraft and Don't Starve. <br>
 &emsp; 🧰 **Tool Stack:**   <br>
-&emsp;&emsp;&emsp;Java | IntelliJ | Git Bash | GitLab(repo,wiki,issue board,tickets) | Jenkins | SonarQube | JaCoCo
+&emsp;&emsp;&emsp;Java ● IntelliJ ● Git Bash ● GitLab(repo,wiki,issue board,tickets) ● Jenkins ● SonarQube ● JaCoCo
 <br>
 
 NOTE: To protect the privacy of other's code, I'll only display the code I have done in the game. <br>
