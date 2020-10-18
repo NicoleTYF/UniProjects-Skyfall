@@ -31,7 +31,7 @@
 
 **Feedback**
 Course GPA: 7.0 - High Distinction
-> Contribution: <br>18/20 <br>
+> Contribution: 18/20 <br>
 Significant progress made, filling out the storyboard was a good display of leadership. <br>
 
 > Quality: 16/20 <br>
