@@ -10,7 +10,8 @@
 
 <br>
 
-**What I have done:** &emsp;[📃 Individual Portfolio](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/IndividualPortfolio.pdf) <br> <br>
+**What I have done:**  <br>
+&emsp; 📃 [Document development process](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/IndividualPortfolio.pdf) including what I have learnt in this course<br>
 &emsp; 🖼 Storybaording for game combat system (all [process_flow](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/diagrams) files in diagrams folder) <br>
 &emsp;&emsp;&emsp;<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow.png" height="100"/> &emsp;
 <img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow2.png" height="100"/> 
@@ -27,7 +28,6 @@
 &emsp; 👩‍💻 Learn how to use Git, Jenkins and JaCoCo to integration<br>
 &emsp; 👩‍💻 Fix bugs and clean code smells of the code base with SonarQube (details in Individual Portfolio)<br>
 &emsp; 🧪 User testing (details in Individual Portfolio) <br>
-&emsp; 📃 Document development process including what I have learnt in this course (in both GitLab wiki and Individual Portfolio)<br>
 <br>
 
 **Feedback**
