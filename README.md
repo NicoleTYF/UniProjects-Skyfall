@@ -19,8 +19,9 @@
 &emsp; 🖼 Model [Class diagram](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png) for game combat system <br>
 &emsp;&emsp;&emsp;<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png" height="100"/> <br>
 &emsp; 👩🏻‍🤝‍🧑🏻 Collaborating with Scrum teams on GitLab to resolve issues and manage tickets (details in Individual Portfolio) <br>
-&emsp; 👩‍💻 Code player and enemy [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Character%20Animations)<br>
-&emsp; 👩‍💻 Code Enemy class and its subclasses [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Enemy)<br>
+&emsp; 👩‍💻 Integrate player and enemy [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Character%20Animations)<br>
+&emsp; 👩‍💻 Code [Enemy class and its subclasses ](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Enemy)<br>
+&emsp; 👩‍💻 Code combat [interface class](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Player/ICombatEntity.java)<br>
 &emsp; 👩‍💻 Code combat interactions for [player](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Player) and [enemies](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Enemy/Enemy.java) (hurt, attack & die)<br>
 &emsp; 👩‍💻 JUnit testing for methods written ([player](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Player/MainCharacterTest.java), [enemy](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/code/Enemy/EnemyTest.java))<br>
 &emsp; 👩‍💻 Learn how to use Git, Jenkins and JaCoCo to integration<br>
