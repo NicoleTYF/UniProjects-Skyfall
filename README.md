@@ -15,8 +15,7 @@
 &emsp; 🖼 Storybaording for game combat system (all [process_flow](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/diagrams) files in diagrams folder) <br>
 &emsp;&emsp;&emsp;<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow.png" height="100"/> &emsp;
 <img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow2.png" height="100"/> 
-<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow3.png" height="100"/> 
-<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow4.png" height="100"/> <br> 
+<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/process_flow3.png" height="100"/>  <br> 
 &emsp; 🖼 Model [Class diagram](https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png) for game combat system <br>
 &emsp;&emsp;&emsp;<img src="https://github.com/NicoleTYF/UniProjects-Skyfall/blob/main/diagrams/Combat_System_Class_Diagram__1_.png" height="100"/> <br>
 &emsp; 👩‍💻 Integrate player and enemy [animations](https://github.com/NicoleTYF/UniProjects-Skyfall/tree/main/code/Character%20Animations)<br>
